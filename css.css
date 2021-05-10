@@ -1,0 +1,73 @@
+body
+{
+    background: url(f3.jpg);
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: inherit;
+}
+.d1
+{
+    background: url(f2.jpg);
+    width: auto;
+    height: auto;
+    align-content: center;
+    margin: auto;
+    padding: inherit;
+    border:12pt double #E74C3C;
+    border-style:groove;
+
+}
+h1
+{
+    font-size: 48pt;
+    background:#1ABC9C;
+    border:15pt inset  #34495E;
+    color: #FDFEFE;
+    font-family: serif;
+    text-align: center;
+    border-color: #34495E;
+}
+h2
+{
+    font-size: 30pt;
+    background:#F1C40F;
+    border:15pt inset  #D35400;
+    color: #2E4053;
+    font-family: serif;
+    text-align: center;
+    border-color: #C0392B;
+}
+p
+{
+    font-weight: 400;
+    color:black;
+    font-size: 17pt;
+    text-align: center;
+    font-style: oblique;
+}
+input
+{
+    width: 500px;
+    height: 31px;
+    border-bottom-color: white;
+    border-bottom-style: dotted;
+    border-bottom-width: medium;
+    align-content: center;
+    font-size: 12pt;
+    font font-weight: 400;
+    font-style: oblique; 
+    
+}
+table, th, td{
+    height: 108px;
+    width: 75px;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+img{
+    width: 250px;
+}
+.uno{
+    width: auto;
+}
